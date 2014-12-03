@@ -1,0 +1,30 @@
+{
+  "name": "chat",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connormccutcheon/chat"
+  },
+  "keywords": [
+    "Reactjs",
+    "chat",
+    "express"
+  ],
+  "author": "Connor McCutcheon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connormccutcheon/chat/issues"
+  },
+  "homepage": "https://github.com/connormccutcheon/chat",
+  "dependencies": {
+    "express": "~4.10.4",
+    "socket.io": "~1.2.1",
+    "react": "~0.12.1",
+    "node-jsx": "~0.12.4"
+  }
+}
